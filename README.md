@@ -1,2 +1,1 @@
-# PHP-Sample
-PHP Sample code for testing 
+# PHP-sample-code
